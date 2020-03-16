@@ -1,4 +1,4 @@
-# php-pure-all-code
+# php-pure-all-code โดยใช้ jquery and javascript 
 # คำอธิบาย สำหรับ Dropdown เก็บค่า
  select_1 and select_2 จะทำการสอนการใช้งาน เรียก select มาแสดง console.log และทำการ post ค่าไปหน้าต่อไป
 
