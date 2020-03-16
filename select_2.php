@@ -2,7 +2,7 @@
     header('Content-type: application/json; charset=utf-8');
     $data = array();
     if(isset($_POST)){
-        $data['msg'] = "1";  //ส่วนนี้จะเรียกว่า sub-function เป็นการใช้ฟังก์ชั่น สามารถประยุกต์ได้
+        $data['msg'] = $_POST['check1'];
     }else{
         $data['msg'] = "0";
     }
